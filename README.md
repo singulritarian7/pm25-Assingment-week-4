@@ -3,7 +3,7 @@ ine particulate matter (PM2.5) is an ambient air pollutant for which there is st
 
 For each year and for each type of PM source, the NEI records how many tons of PM2.5 were emitted from that source over the course of the entire year. The data that you will use for this assignment are for 1999, 2002, 2005, and 2008.
 
-Review criteriamenos 
+# Review criteriamenos 
 For each question
 
 Does the plot appear to address the question being asked?
@@ -12,6 +12,7 @@ Datamenos
 The data for this assignment are available from the course web site as a single zip file:
 
 # Data for Peer Assessment [29Mb]
+Data for Peer Assessment [29Mb]
 The zip file contains two files:
 
 PM2.5 Emissions Data (\color{red}{\verb|summarySCC_PM25.rds|}summarySCC_PM25.rds): This file contains a data frame with all of the PM2.5 emissions data for 1999, 2002, 2005, and 2008. For each year, the table contains number of tons of PM2.5 emitted from a specific type of source for the entire year. Here are the first few rows.
@@ -30,7 +31,7 @@ You can read each of the two files using the \color{red}{\verb|readRDS()|}readRD
 
 as long as each of those files is in your current working directory (check by calling \color{red}{\verb|dir()|}dir() and see if those files are in the listing).
 
-Assignmentmenos 
+# Assignmentmenos 
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. You may use any R package you want to support your analysis.
 
 # Questions
